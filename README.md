@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sandeep325/count.svg?"  />
+</div>
 
+###
 <!--
-**shadab1301/shadab1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/sanat918/sanat918/output/snake.svg" alt="Snake animation" />
 -->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
